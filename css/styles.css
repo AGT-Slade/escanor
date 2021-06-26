@@ -36,6 +36,10 @@ a:hover {
   display: block;
 }
 
+.logo-brand img {
+  height: 100px;
+}
+
 .logo a {
   font-size: 20px;
 }
