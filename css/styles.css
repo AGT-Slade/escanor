@@ -59,6 +59,8 @@ a:hover {
 
 .toggle {
 order: 1;
+margin: 0 41px 0 41px;
+
 }
 
 .item.button {
@@ -126,6 +128,8 @@ order: 1;
 
   .toggle {
     order: 2;
+    margin: 0 41px 0 41px;
+
   }
 
   .button.secondary {
